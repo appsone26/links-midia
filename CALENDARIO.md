@@ -1,4 +1,4 @@
-# Lote de 30 + 30 artes (07/10/2026) — calendário de uso
+# Lote de 30 artes do Cataki + 33 do Ezerion (07/10/2026) — calendário de uso
 
 > Onde estão os arquivos: `cataki/artes/lote-2026-10-07/` e `ezerion/artes/lote-2026-10-07/` (nesta pasta, os nomes da tabela são os arquivos sem o prefixo `cataki/` ou `ezerion/`). Ainda sem agendamento: só guardado.
 
