@@ -30,19 +30,7 @@ Mídia pública da APPS ONE, com links diretos para postar.
 | 22 | [Ajuda e suporte](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/22-ajuda-e-suporte.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/22-ajuda-e-suporte-capa.jpg) |
 | 23 | [Cofre de senhas](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/23-cofre-de-senhas.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/23-cofre-de-senhas-capa.jpg) |
 | 24 | [Assinatura e planos](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/24-assinatura-e-planos.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/24-assinatura-e-planos-capa.jpg) |
+| 25 | [Financeiro: faturamento por área](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/25-financeiro-faturamento-por-area.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/25-financeiro-faturamento-por-area-capa.jpg) |
+| 26 | [Faturas e nota fiscal](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal-capa.jpg) |
 
 Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para postar, baixe o .mp4 e use o .jpg como capa.
-
-## Organização por marca
-
-Uma pasta por conta do Metricool. Nomes simples, minúsculos, sem acento e sem espaço. Vídeo vertical 9:16 em MP4.
-
-| Marca | Vídeos | Artes |
-|---|---|---|
-| APPS ONE | `apps-one/videos/AAAA-MM-DD/` | `apps-one/artes/AAAA-MM-DD/` |
-| Cataki | `cataki/videos/AAAA-MM-DD/` | `cataki/artes/AAAA-MM-DD/` |
-| Ezerion | `ezerion/reels/` (série numerada, acima) | `ezerion/artes/AAAA-MM-DD/` |
-| Tribunal na Prática | `tribunal-na-pratica/videos/AAAA-MM-DD/` | `tribunal-na-pratica/artes/AAAA-MM-DD/` |
-| Soares Pacheco | `soares-pacheco/videos/AAAA-MM-DD/` | `soares-pacheco/artes/AAAA-MM-DD/` |
-
-Não apagar o arquivo antes de o post sair: o Metricool precisa do link no ar. O repositório `links` (antigo) fica como está, com tudo o que já foi postado.
