@@ -1,0 +1,16 @@
+Cada acesso ao cofre fica registrado | Ezerion
+
+📘 Cada acesso ao cofre fica registrado.
+
+Mostrar, copiar, incluir, editar e excluir uma senha são gravados com nome, data e hora.
+
+1. A senha em si nunca entra no registro
+2. Abra o Registro de atividades no menu
+3. Filtre por pessoa, área e período
+4. Exporte o histórico em PDF, se necessário
+
+Inscreva-se no canal para acompanhar as próximas dicas.
+
+👉 Teste grátis por 2 meses, sem cartão: https://ezerion.com.br
+
+#ezerion #advocacia #advogados #gestaojuridica #escritoriodeadvocacia #tecnologiajuridica #shorts

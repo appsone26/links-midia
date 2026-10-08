@@ -1,0 +1,16 @@
+📘 Digite o número e o processo vem pronto.
+
+O sistema busca no tribunal as partes e os dados do caso e passa a acompanhar as movimentações.
+
+1. Cadastre o processo com o número completo, no padrão do CNJ
+2. As partes e os dados do caso são preenchidos
+3. A placa Monitorando indica o acompanhamento ativo
+4. Cada andamento novo vira alerta na agenda
+
+O acompanhamento não substitui a conferência do Diário Oficial e dos autos.
+
+Salve esta publicação para consultar depois.
+
+👉 Teste grátis por 2 meses, sem cartão: ezerion.com.br (link na bio)
+
+#ezerion #advocacia #advogados #gestaojuridica #escritoriodeadvocacia #tecnologiajuridica
