@@ -23,7 +23,7 @@ Mídia pública da APPS ONE, com links diretos para postar.
 | 15 | [IA: riscos e alternativas](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/15-ia-riscos-e-alternativas.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/15-ia-riscos-e-alternativas-capa.jpg) |
 | 16 | [Financeiro: lançar honorário](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/16-financeiro-lancar-honorario.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/16-financeiro-lancar-honorario-capa.jpg) |
 | 17 | [Financeiro: receber e quitar](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/17-financeiro-receber-e-quitar.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/17-financeiro-receber-e-quitar-capa.jpg) |
-| 18 | [Robô de mensagens](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/18-robo-de-mensagens.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/18-robo-de-mensagens-capa.jpg) |
+| 18 | [Chegou o WhatsApp! (edição especial)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/18-chegou-o-whatsapp.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/18-chegou-o-whatsapp-capa.jpg) |
 | 19 | [Alertas por e-mail](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/19-alertas-por-e-mail.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/19-alertas-por-e-mail-capa.jpg) |
 | 20 | [Registro de atividades](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/20-registro-de-atividades.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/20-registro-de-atividades-capa.jpg) |
 | 21 | [Relatórios em PDF](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/21-relatorios-em-pdf.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/21-relatorios-em-pdf-capa.jpg) |
@@ -34,3 +34,17 @@ Mídia pública da APPS ONE, com links diretos para postar.
 | 26 | [Faturas e nota fiscal](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal-capa.jpg) |
 
 Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para postar, baixe o .mp4 e use o .jpg como capa.
+
+## Organização por marca
+
+Uma pasta por conta do Metricool. Nomes simples, minúsculos, sem acento e sem espaço. Vídeo vertical 9:16 em MP4.
+
+| Marca | Vídeos | Artes |
+|---|---|---|
+| APPS ONE | `apps-one/videos/AAAA-MM-DD/` | `apps-one/artes/AAAA-MM-DD/` |
+| Cataki | `cataki/videos/AAAA-MM-DD/` | `cataki/artes/AAAA-MM-DD/` |
+| Ezerion | `ezerion/reels/` (série numerada, acima) | `ezerion/artes/AAAA-MM-DD/` |
+| Tribunal na Prática | `tribunal-na-pratica/videos/AAAA-MM-DD/` | `tribunal-na-pratica/artes/AAAA-MM-DD/` |
+| Soares Pacheco | `soares-pacheco/videos/AAAA-MM-DD/` | `soares-pacheco/artes/AAAA-MM-DD/` |
+
+Não apagar o arquivo antes de o post sair: o Metricool precisa do link no ar. O repositório `links` (antigo) fica como está, com tudo o que já foi postado.
