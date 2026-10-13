@@ -36,6 +36,15 @@ Mídia pública da APPS ONE, com links diretos para postar.
 Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para postar, baixe o .mp4 e use o .jpg como capa.
 
 
+## Ezerion · YouTube (vídeos deitados, 1920x1080, com legenda)
+
+| Nº | Vídeo | Capa |
+|---|---|---|
+| 18 | [Chegou o WhatsApp!](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp-capa.jpg) |
+
+Versão deitada para o YouTube. A versão em pé do mesmo vídeo está em Reels, acima.
+
+
 ## APPS ONE · Lote 2026-10-09 (10 artes + logo animado)
 
 Duas por semana, terça e quinta. Cada arte tem feed (1080x1350), story (1080x1920), vídeo 9:16 de 8 s e legenda.
@@ -64,7 +73,7 @@ Uma pasta por conta do Metricool. Nomes simples, minúsculos, sem acento e sem e
 |---|---|---|
 | APPS ONE | `apps-one/videos/AAAA-MM-DD/` | `apps-one/artes/AAAA-MM-DD/` |
 | Cataki | `cataki/videos/AAAA-MM-DD/` | `cataki/artes/AAAA-MM-DD/` |
-| Ezerion | `ezerion/reels/` (série numerada, acima) | `ezerion/artes/AAAA-MM-DD/` |
+| Ezerion | `ezerion/reels/` (série numerada, acima) · `ezerion/youtube/` (deitados) | `ezerion/artes/AAAA-MM-DD/` |
 | Tribunal na Prática | `tribunal-na-pratica/videos/AAAA-MM-DD/` | `tribunal-na-pratica/artes/AAAA-MM-DD/` |
 | Soares Pacheco | `soares-pacheco/videos/AAAA-MM-DD/` | `soares-pacheco/artes/AAAA-MM-DD/` |
 
