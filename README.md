@@ -40,6 +40,8 @@ Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para p
 
 | Nº | Vídeo | Capa |
 |---|---|---|
+| 02 | [Colocar a equipe no sistema](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/02-colocar-a-equipe-no-sistema.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/02-colocar-a-equipe-no-sistema-capa.jpg) |
+| 03 | [Dados do escritório e logo](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/03-dados-do-escritorio-e-logo.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/03-dados-do-escritorio-e-logo-capa.jpg) |
 | 18 | [Chegou o WhatsApp!](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp-capa.jpg) |
 
 Versão deitada para o YouTube. A versão em pé do mesmo vídeo está em Reels, acima.
