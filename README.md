@@ -32,6 +32,9 @@ Mídia pública da APPS ONE, com links diretos para postar.
 | 24 | [Assinatura e planos](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/24-assinatura-e-planos.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/24-assinatura-e-planos-capa.jpg) |
 | 25 | [Financeiro: faturamento por área](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/25-financeiro-faturamento-por-area.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/25-financeiro-faturamento-por-area-capa.jpg) |
 | 26 | [Faturas e nota fiscal](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/26-faturas-e-nota-fiscal-capa.jpg) |
+| 27 | [O Ezerion chegou na Google Play](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/27-chegou-na-google-play.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/27-chegou-na-google-play-capa.jpg) |
+| 28 | [A IA ficou turbinada](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/28-ia-turbinada.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/28-ia-turbinada-capa.jpg) |
+| 29 | [Você não perde mais nenhum cliente (Leads)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/29-leads-nenhum-cliente-perdido.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/29-leads-nenhum-cliente-perdido-capa.jpg) |
 
 Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para postar, baixe o .mp4 e use o .jpg como capa.
 
@@ -43,6 +46,9 @@ Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para p
 | 02 | [Colocar a equipe no sistema](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/02-colocar-a-equipe-no-sistema.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/02-colocar-a-equipe-no-sistema-capa.jpg) |
 | 03 | [Dados do escritório e logo](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/03-dados-do-escritorio-e-logo.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/03-dados-do-escritorio-e-logo-capa.jpg) |
 | 18 | [Chegou o WhatsApp!](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/18-chegou-o-whatsapp-capa.jpg) |
+| 27 | [O Ezerion chegou na Google Play](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/27-chegou-na-google-play.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/27-chegou-na-google-play-capa.jpg) |
+| 28 | [A IA ficou turbinada](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/28-ia-turbinada.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/28-ia-turbinada-capa.jpg) |
+| 29 | [Você não perde mais nenhum cliente (Leads)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/29-leads-nenhum-cliente-perdido.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/29-leads-nenhum-cliente-perdido-capa.jpg) |
 
 Versão deitada para o YouTube. A versão em pé do mesmo vídeo está em Reels, acima.
 
