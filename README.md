@@ -35,6 +35,7 @@ Mídia pública da APPS ONE, com links diretos para postar.
 | 27 | [O Ezerion chegou na Google Play](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/27-chegou-na-google-play.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/27-chegou-na-google-play-capa.jpg) |
 | 28 | [A IA ficou turbinada](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/28-ia-turbinada.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/28-ia-turbinada-capa.jpg) |
 | 29 | [Você não perde mais nenhum cliente (Leads)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/29-leads-nenhum-cliente-perdido.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/29-leads-nenhum-cliente-perdido-capa.jpg) |
+| 30 | [Anúncio: o seu escritório na palma da mão (patrocinado)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/30-anuncio-escritorio-na-palma-da-mao.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/reels/30-anuncio-escritorio-na-palma-da-mao-capa.jpg) |
 
 Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para postar, baixe o .mp4 e use o .jpg como capa.
 
@@ -49,6 +50,7 @@ Cada vídeo começa com a capa (a chamada) e termina avisando o próximo. Para p
 | 27 | [O Ezerion chegou na Google Play](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/27-chegou-na-google-play.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/27-chegou-na-google-play-capa.jpg) |
 | 28 | [A IA ficou turbinada](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/28-ia-turbinada.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/28-ia-turbinada-capa.jpg) |
 | 29 | [Você não perde mais nenhum cliente (Leads)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/29-leads-nenhum-cliente-perdido.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/29-leads-nenhum-cliente-perdido-capa.jpg) |
+| 30 | [Anúncio: o seu escritório na palma da mão (patrocinado)](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/30-anuncio-escritorio-na-palma-da-mao.mp4) | [capa](https://raw.githubusercontent.com/appsone26/links-midia/main/ezerion/youtube/30-anuncio-escritorio-na-palma-da-mao-capa.jpg) |
 
 Versão deitada para o YouTube. A versão em pé do mesmo vídeo está em Reels, acima.
 
