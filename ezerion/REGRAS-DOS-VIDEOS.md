@@ -55,4 +55,19 @@ O Ezerion é um produto da APPS ONE, e a APPS ONE aparece em todo material.
 - Não citar concorrentes.
 - Não fazer promessas absolutas.
 - Faturamento: dizer "faturamento do escritório", e não "quanto entrou".
-- Sempre que fizer sentido, mostrar que o aviso chega no WhatsApp do responsável.
+- Sempre que fizer sentido, mostrar que o aviso chega no WhatsApp do responsável, e dizer que também chega no e-mail e nas notificações do app.
+- App Store: enquanto a Apple não liberar, usar "Em breve na App Store".
+
+## 6. Slogan
+
+**O escritório na palma da sua mão.**
+Complemento: **Um toque. Um comando de voz. Todo o sistema funcionando.**
+
+- Vai sempre na entrada dos vídeos e cards (capa), e no banner e no panfleto.
+
+## 7. Toque com a mão
+
+Tudo o que for tocar na tela aparece com o celular numa mão feminina de unha pintada, com o polegar tocando, e o app na versão de celular. Nada de cursor de computador.
+
+- O polegar sai da lateral do celular, toca, e volta para a lateral.
+- Modelos prontos: `cards/card-05-sua-agenda-sem-abrir-a-agenda-mao.mp4` (card vertical) e o vídeo de TV `ezerion-tv-ia-celular.mp4`.
