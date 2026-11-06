@@ -34,7 +34,19 @@ O Ezerion (a IA do sistema) **nunca diz ao advogado o que ele tem que fazer**. E
   - A legenda não pisca.
 - **IA pensando:** o ✨ "respira" ao lado de "Pensando…". A resposta aparece inteira de uma vez e fica parada para ler. Não digita letra por letra.
 
-## 4. Conteúdo
+## 4. APPS ONE em tudo
+
+O Ezerion é um produto da APPS ONE, e a APPS ONE aparece em todo material.
+
+- **Banner e panfleto:** "um produto APPS ONE", com o logo da APPS ONE.
+- **Instagram:** sempre os dois, @ezerion.app e @appsoneoficial.
+- **Vídeo:**
+  - abertura com "um produto APPS ONE" embaixo;
+  - nas telas do sistema, um selo pequeno "um produto APPS ONE" no canto;
+  - fecho com os dois Instagrams e o logo da APPS ONE.
+- **Logo:** `apps-one/assinatura/logo-assinatura.png`, para fundo claro, e o último quadro de `apps-one/artes/lote-2026-10-09/00-logo-luz.mp4`, para fundo escuro.
+
+## 5. Conteúdo
 
 - Só dados fictícios: escritório de demonstração Andrade & Lima.
 - Nunca usar o "Escritório Demonstração Ezerion", que é a conta do revisor da Apple.
