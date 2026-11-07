@@ -5,7 +5,7 @@
 **Ordem das imagens (não mudar):** 01.png → 02.png → 03.png → 04.png → 05.png → 06.png → 07.png
 
 ## Vídeo (YouTube Shorts e TikTok)
-- **Arquivo:** `video.mp4`, vertical 1080x1920, 33 s, com música. São os mesmos 7 quadros passando como carrossel, sem o "Arrasta →" e sem a numeração.
+- **Arquivo:** `video.mp4`, vertical 1080x1920, com música. São os mesmos 7 quadros passando como carrossel, sem o "Arrasta →" e sem a numeração.
 - **Publicar:** hoje, no **YouTube Shorts** (canal "Cataki Ofertas") e no **TikTok** (@cataki.ofertas). Se quiser, também nos **Reels/Stories** do Instagram.
 - **Link:** https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/gibi/2026-11-06-caso-black-friday/video.mp4
 - **Título para o Shorts:** `O Caso da Black Friday 🕵️ | Gibi Cataki nº 1`

@@ -40,7 +40,7 @@ Na Black Friday, até o Tá confere no Cataki.
 
 ## 2) VÍDEO: YouTube Shorts, TikTok e, se quiser, Reels/Stories
 
-- **Vídeo:** [video.mp4](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/gibi/02-caso-brinquedo-do-ta/video.mp4), vertical 1080x1920, 33 s, com música.
+- **Vídeo:** [video.mp4](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/gibi/02-caso-brinquedo-do-ta/video.mp4), vertical 1080x1920, com música.
 - **Capa:** [capa-video.jpg](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/gibi/02-caso-brinquedo-do-ta/capa-video.jpg)
 - **YouTube Shorts** (canal "Cataki Ofertas"). Título: `O Caso do Brinquedo do Tá 🐶 | Gibi Cataki nº 2`
 - **TikTok** (@cataki.ofertas)
