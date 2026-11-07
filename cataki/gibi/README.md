@@ -3,6 +3,8 @@
 Cada gibi tem a própria pasta, com os quadros `01.png` a `07.png`, o `video.mp4`, a `capa-video.jpg` e um `LEIA-ME.md` com a ordem, as legendas e onde publicar.
 🔴 **Cada gibi tem a sua data, que está no topo do LEIA-ME da pasta. Não publicar antes da data. Não trocar a ordem dos quadros.**
 
+🔴 **Nos dias SEM gibi sai um cartaz animado de `cataki/cartazes/2026-11/` (ver o LEIA-ME de lá).**
+
 **Agenda:** terça, quinta e sábado. A grande final é a exceção: **sexta 27/11**, dia da Black Friday.
 **Onde publicar:** o carrossel no Feed do Instagram e do Facebook; o vídeo no YouTube Shorts e no TikTok (e, se quiser, nos Reels e Stories).
 
