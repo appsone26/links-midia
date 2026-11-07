@@ -1,6 +1,6 @@
 # Gibi Cataki nº 2 — "O Caso do Brinquedo do Tá"
 
-> 🔴 **SITUAÇÃO: GUARDADO. NÃO PUBLICAR AINDA.** O Edgard vai escolher o dia. Só publicar quando ele disser a data.
+> 🔴 **PUBLICAR EM: sábado, 07/11/2026.** Série da Black Friday: terça, quinta e sábado, com a grande final na sexta 27/11.
 
 **O que é:** carrossel em quadrinhos (revistinha/gibi) com 7 imagens de 1080x1350 (4:5), mais um vídeo vertical com os mesmos quadros.
 **Personagens:** Ki, Ká e o **Tá**, o cachorrinho farejador. É a primeira aparição do Tá.
