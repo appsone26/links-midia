@@ -6,6 +6,7 @@ Para o Instagram, o Facebook e o WhatsApp do Ezerion. Publicar já: o evento é 
 |---|---|---|
 | `convite-ezerion-sebrae-feed.png` | 1080 × 1350 (4:5) | Feed do Instagram e do Facebook, e envio direto no WhatsApp |
 | `convite-ezerion-sebrae-story.png` | 1080 × 1920 (9:16) | Stories do Instagram e do Facebook, e status do WhatsApp |
+| `convite-ezerion-sebrae-whatsapp.png` | 1080 × 1560 | **Só para mandar no WhatsApp.** Tem um segundo QR Code: "Comece grátis por 60 dias + 30% por 6 meses", que leva ao link do cupom do evento (https://ezerion.com.br/?c=S6JUDM9J) e registra quem veio por ele |
 
 O QR Code das duas artes leva à inscrição gratuita do evento: https://sebraeriosummit.com.br/#inscrevase
 O story tem a oferta do estande: 60 dias grátis + 30% de desconto por 6 meses.
@@ -30,7 +31,7 @@ Passa lá no estande da OAB para conhecer de perto. Te esperamos! 🙌
 
 Figurinha de link: https://sebraeriosummit.com.br/#inscrevase · texto da figurinha: "Inscreva-se grátis"
 
-## Mensagem para mandar no WhatsApp com a arte do feed
+## Mensagem para mandar no WhatsApp com a arte `convite-ezerion-sebrae-whatsapp.png`
 
 Oi, tudo bem? 😊
 Quero te fazer um convite especial: de 10 a 12 de novembro vou estar no **estande da OAB no Sebrae Rio Summit**, no Riocentro, lançando o **Ezerion**, o sistema jurídico com inteligência artificial que a gente vem construindo. Você fala com ele e ele cuida da agenda, dos processos, dos andamentos e do financeiro do escritório.
