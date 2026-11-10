@@ -14,8 +14,9 @@ Pasta fixa. **Toda sessão que precisar de selo de loja pega daqui.** Não recri
 - `app-store/posts-apple/`: posts prontos que a própria Apple gerou, com o texto "Alerta de lançamento. Preparar. Apontar. Obter.". Tamanhos: quadrado, story, banners e prévia de link.
 
 ## Google Play
-- `google-play/selo-google-play-pt-br.png`: o selo usado até agora nas peças.
-- ⚠️ **Este arquivo foi extraído de um frame de vídeo; não é o original do Google.** Quando houver o arquivo oficial do Partner Marketing Hub (pt-BR, SVG), ele substitui este com o mesmo nome.
+- `google-play/selo-google-play-pt-br.svg`: **selo oficial "Disponível no Google Play" em português**, baixado do Google em 10/11/2026 (versão normal, não a de pré-inscrição).
+- `google-play/selo-google-play-pt-br.png`: o mesmo selo em PNG com 400 px de altura, para vídeo e imagem. É apenas uma rasterização do SVG oficial, sem nenhuma edição.
+- O termo do Google diz que ele pode revisar a peça final e pedir mudanças. Se pedir, a gente ajusta.
 
 ## Regras rápidas (detalhes em `docs/SELO_APP_STORE.md` e `docs/SELO_GOOGLE_PLAY.md` no projeto)
 - Os dois selos lado a lado: **App Store à esquerda, Google Play à direita, mesma altura.**
