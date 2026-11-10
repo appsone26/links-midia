@@ -8,6 +8,19 @@
 **Regras:** nada de "ofertas reais", nada de dinheiro nem de comissão. A legenda leva **#publi** (regra do Telegram).
 **Selos das lojas (atualizado em 10/11):** todos os cartazes agora trazem, na faixa de baixo, o selo oficial **Baixar na App Store** ao lado do **Disponível no Google Play**. No fim de cada legenda, acrescente: `App Store é marca da Apple Inc. Google Play é marca da Google LLC.` Os arquivos dos selos ficam em `cataki/lojas/`.
 
+## 0) NOVO: Cataki na App Store (a partir de 11/11)
+
+- **Quarta 11/11:** o post principal do dia é o **gibi extra "O Caso do Primo do iPhone"** (`cataki/gibi/extra-caso-do-primo-do-iphone/`). O cartaz de 11/11 (Telegram) vai só para Stories e Telegram.
+- **Uma vez por semana, nas quartas, sai um cartaz das lojas.** Nos dias 18/11 e 25/11 ele é o **post principal** do dia, e o cartaz da agenda desses dias vai só para Stories e Telegram. O de 02/12 já é dezembro.
+
+| Dia | Cartaz | Vídeo | Imagem | Legenda |
+|---|---|---|---|---|
+| qua 18/11 | TEM CATAKI NO SEU CELULAR? | [2026-11-18-tem-cataki-no-celular.mp4](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-11-18-tem-cataki-no-celular.mp4) | [2026-11-18-tem-cataki-no-celular.png](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-11-18-tem-cataki-no-celular.png) | Tem Cataki no seu celular? Agora o Cataki está na App Store e no Google Play: histórico, Estúdio e aviso no WhatsApp. Link na bio. 🔍 Siga @cataki.ofertas e o Telegram @catakiofertas. App Store é marca da Apple Inc. Google Play é marca da Google LLC. #Cataki #BlackFriday #publi |
+| qua 25/11 | A BLACK FRIDAY NO BOLSO | [2026-11-25-black-friday-no-bolso.mp4](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-11-25-black-friday-no-bolso.mp4) | [2026-11-25-black-friday-no-bolso.png](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-11-25-black-friday-no-bolso.png) | A Black Friday no bolso! Na fila, no ônibus, no sofá: o histórico vai junto. Baixe o Cataki na App Store ou no Google Play. Link na bio. 🔍 Siga @cataki.ofertas e o Telegram @catakiofertas. App Store é marca da Apple Inc. Google Play é marca da Google LLC. #Cataki #BlackFriday #publi |
+| qua 02/12 | JÁ BAIXOU? | [2026-12-02-ja-baixou.mp4](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-12-02-ja-baixou.mp4) | [2026-12-02-ja-baixou.png](https://raw.githubusercontent.com/appsone26/links-midia/main/cataki/cartazes/2026-11/2026-12-02-ja-baixou.png) | Já baixou? O Natal também tem preço conferido. O Cataki está na App Store e no Google Play. Link na bio. 🔍 Siga @cataki.ofertas e o Telegram @catakiofertas. App Store é marca da Apple Inc. Google Play é marca da Google LLC. #Cataki #BlackFriday #publi |
+
+⚠️ **Regra da Apple:** nunca dizer que a Apple aprovou, certificou ou é parceira do Cataki. Escrever **App Store** e **iPhone** exatamente assim, nunca em caixa alta.
+
 ## 1) Agenda principal (dias SEM gibi): 1 cartaz por dia
 
 | Dia | Cartaz | Vídeo | Imagem | Legenda |

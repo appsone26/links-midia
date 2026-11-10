@@ -13,6 +13,7 @@ Cada gibi tem a própria pasta, com os quadros `01.png` a `07.png`, o `video.mp4
 | 1 | O Caso da Black Friday | `2026-11-06-caso-black-friday/` | sex 06/11 (publicado) |
 | 2 | O Caso do Brinquedo do Tá | `02-caso-brinquedo-do-ta/` | sáb 07/11 |
 | 3 | O Caso do Alerta | `03-caso-do-alerta/` | terça, 10/11/2026 |
+| extra | O Caso do Primo do iPhone (chegou na App Store) | `extra-caso-do-primo-do-iphone/` | **quarta, 11/11/2026** (edição extra) |
 | 4 | O Caso da Lista de Desejos | `04-caso-da-lista-de-desejos/` | quinta, 12/11/2026 |
 | 5 | O Caso das Redes | `05-caso-das-redes/` | sábado, 14/11/2026 |
 | 6 | O Caso do Tá na Pet Shop | `06-caso-do-ta-na-pet-shop/` | terça, 17/11/2026 |
