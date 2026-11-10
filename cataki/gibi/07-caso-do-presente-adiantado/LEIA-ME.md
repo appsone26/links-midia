@@ -30,7 +30,8 @@ Presente de Natal em novembro? A Ki tem um motivo... 🎄
 Lista de presentes nos Favoritos, histórico de cada um com calma, e o que pode esperar fica no Estúdio, com aviso no WhatsApp.
 
 O Natal começa na Black Friday. Confere o presente no Cataki.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Natal #Presentes #HistoricoDePreco #KieKa
 ```

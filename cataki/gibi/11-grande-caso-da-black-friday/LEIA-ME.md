@@ -30,7 +30,8 @@ Grande final! Ki, Ká e Tá reviram todos os casos da Black Friday... e somaram 
 TV, brinquedo do Tá, notebook, cafeteira, caminha, bicicleta, celular, air fryer: tudo conferido no Cataki. E a economia? Arrasta pra ver.
 
 Black Friday é todo dia que você confere no Cataki. Obrigado, detetives!
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #GrandeFinal #HistoricoDePreco #KieKa
 ```

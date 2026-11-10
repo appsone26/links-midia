@@ -30,7 +30,8 @@ Detetive bom divide a pista. 🕵️
 O Ká achou uma air fryer no menor preço do histórico e compartilhou na Comunidade do Cataki. Lá a galera troca ofertas conferidas e tira dúvidas.
 
 Entra na Comunidade do Cataki.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Comunidade #HistoricoDePreco #KieKa
 ```

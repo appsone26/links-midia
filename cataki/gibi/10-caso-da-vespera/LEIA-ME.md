@@ -30,7 +30,8 @@ Amanhã é Black Friday! E a Ki já tem um plano. 📋
 Favoritos em dia, Estúdio vigiando, aviso no WhatsApp e histórico na mão. Se o preço cair de madrugada, o Cataki avisa.
 
 Amanhã é Black Friday. Deixa o Cataki vigiando.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Estudio #HistoricoDePreco #KieKa
 ```

@@ -30,7 +30,8 @@ O celular do Ká caiu... de novo. Mas dessa vez ele não saiu comprando: deixou 
 O Ká levou o celular pro Estúdio, escolheu o preço e esperou. Quando chegou, o aviso veio no WhatsApp, e o histórico confirmou: menor preço.
 
 Deixa no Estúdio. O Cataki te chama no WhatsApp.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Estudio #AvisoNoWhatsApp #HistoricoDePreco #KieKa
 ```

@@ -30,7 +30,8 @@ O Ká olhou o preço do notebook 47 vezes num dia só... até a Ki mostrar o Est
 Leva o produto pro Estúdio, escolhe o preço que você quer e pronto: quando chegar, o aviso cai no seu WhatsApp.
 
 Você escolhe o preço. O Cataki vigia.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Estudio #AvisoNoWhatsApp #HistoricoDePreco #KieKa
 ```

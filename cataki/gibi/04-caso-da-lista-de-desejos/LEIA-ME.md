@@ -30,7 +30,8 @@ A lista de Black Friday do Ká tinha de tudo... e nenhuma organização. 😅
 Toca no coração e o produto vai para os seus Favoritos. Olha o histórico de cada um, e o que você quer muito leva pro Estúdio: o aviso chega no WhatsApp.
 
 Monte sua lista nos Favoritos. O Cataki confere cada preço.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Favoritos #Estudio #HistoricoDePreco #KieKa
 ```

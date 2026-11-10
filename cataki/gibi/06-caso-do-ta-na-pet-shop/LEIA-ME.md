@@ -30,7 +30,8 @@ O Tá andava dormindo no chão duro. Black Friday pet: hora de investigar! 🐾
 O histórico do Cataki mostrou que a caminha estava no menor preço. E a ração ficou no Estúdio: quando chegar no preço certo, o aviso vem no WhatsApp.
 
 Pet feliz, preço conferido.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Pet #Cachorro #Estudio #HistoricoDePreco #KieKa
 ```

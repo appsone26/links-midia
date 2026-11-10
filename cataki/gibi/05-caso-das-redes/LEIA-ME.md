@@ -30,7 +30,8 @@ Instagram ou Telegram? TikTok ou YouTube? O Ká e a Ki não chegaram a um acordo
 O Cataki está em todas as redes. Escolhe a sua (ou segue em todas, como o Tá mandou): Instagram e TikTok @cataki.ofertas, YouTube Cataki Ofertas e o novo canal no Telegram: @catakiofertas.
 
 Siga o Cataki onde você preferir.
-📲 Link na bio · Disponível no Google Play · App Store em breve
+📲 Link na bio · Baixe na App Store ou no Google Play
+App Store é marca da Apple Inc. Google Play é marca da Google LLC.
 
 #BlackFriday #Cataki #Telegram #Redes #HistoricoDePreco #KieKa
 ```
