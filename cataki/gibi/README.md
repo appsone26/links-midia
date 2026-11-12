@@ -5,6 +5,9 @@ Cada gibi tem a própria pasta, com os quadros `01.png` a `07.png`, o `video.mp4
 
 🔴 **Nos dias SEM gibi sai um cartaz animado de `cataki/cartazes/2026-11/` (ver o LEIA-ME de lá).**
 
+> ⚠️ **METRICOOL: ATENÇÃO AO TROCAR UMA PEÇA.** O Metricool guarda uma cópia própria da imagem ou do vídeo no momento do agendamento. Se uma peça for refeita aqui no `links-midia` depois de agendada, **o post agendado continua com a versão antiga**. Por isso, sempre que uma peça mudar, atualize também o post no Metricool, trocando a mídia pela versão nova deste repositório.
+> Em 11/11/2026, todos os posts do Cataki agendados de 12/11 a 02/12 foram atualizados com as peças que têm os selos da App Store e do Google Play.
+
 **Agenda:** terça, quinta e sábado. A grande final é a exceção: **sexta 27/11**, dia da Black Friday.
 **Onde publicar:** o carrossel no Feed do Instagram e do Facebook; o vídeo no YouTube Shorts e no TikTok (e, se quiser, nos Reels e Stories).
 

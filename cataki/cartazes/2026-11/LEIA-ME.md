@@ -8,6 +8,9 @@
 **Regras:** nada de "ofertas reais", nada de dinheiro nem de comissão. A legenda leva **#publi** (regra do Telegram).
 **Selos das lojas (atualizado em 10/11):** todos os cartazes agora trazem, na faixa de baixo, o selo oficial **Baixar na App Store** ao lado do **Disponível no Google Play**. No fim de cada legenda, acrescente: `App Store é marca da Apple Inc. Google Play é marca da Google LLC.` Os arquivos dos selos ficam em `cataki/lojas/`.
 
+> ⚠️ **METRICOOL: ATENÇÃO AO TROCAR UMA PEÇA.** O Metricool guarda uma cópia própria da imagem ou do vídeo no momento do agendamento. Se uma peça for refeita aqui no `links-midia` depois de agendada, **o post agendado continua com a versão antiga**. Por isso, sempre que uma peça mudar, atualize também o post no Metricool, trocando a mídia pela versão nova deste repositório.
+> Em 11/11/2026, todos os posts do Cataki agendados de 12/11 a 02/12 foram atualizados com as peças que têm os selos da App Store e do Google Play.
+
 ## 0) NOVO: Cataki na App Store (a partir de 11/11)
 
 - **Quarta 11/11:** o post principal do dia é o **gibi extra "O Caso do Primo do iPhone"** (`cataki/gibi/extra-caso-do-primo-do-iphone/`). O cartaz de 11/11 (Telegram) vai só para Stories e Telegram.
