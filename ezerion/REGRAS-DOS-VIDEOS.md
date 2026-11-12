@@ -56,7 +56,8 @@ O Ezerion é um produto da APPS ONE, e a APPS ONE aparece em todo material.
 - Não fazer promessas absolutas.
 - Faturamento: dizer "faturamento do escritório", e não "quanto entrou".
 - Sempre que fizer sentido, mostrar que o aviso chega no WhatsApp do responsável, e dizer que também chega no e-mail e nas notificações do app.
-- App Store: enquanto a Apple não liberar, usar "Em breve na App Store".
+- Lojas: o Ezerion já está na App Store e no Google Play (aprovado pela Apple em 11/11/2026). Usar os selos oficiais de `cataki/lojas/` (App Store à esquerda, Google Play à direita, mesma altura, sem animar) e as linhas de crédito das marcas.
+- Oferta: todo vídeo e card avisa "Teste grátis por 60 dias, com até 10 processos" (na abertura e no fecho).
 
 ## 6. Slogan
 
@@ -70,4 +71,4 @@ Complemento: **Um toque. Um comando de voz. Todo o sistema funcionando.**
 Tudo o que for tocar na tela aparece com o celular numa mão feminina de unha pintada, com o polegar tocando, e o app na versão de celular. Nada de cursor de computador.
 
 - O polegar sai da lateral do celular, toca, e volta para a lateral.
-- Modelos prontos: `cards/card-05-sua-agenda-sem-abrir-a-agenda-mao.mp4` (card vertical) e o vídeo de TV `ezerion-tv-ia-celular.mp4`.
+- Modelos prontos: os cards de `cards/40-cards/` (card vertical) e o vídeo de TV `ezerion-tv-ia-celular.mp4`.
